@@ -1,6 +1,6 @@
 package com.company;
 
-public class Main {
+public class TernaryIf {
 
     public static void main(String[] args) {
         int a = 10, b = 4;
