@@ -11,6 +11,7 @@ public class uyg11 {
         int n = girdiAl.nextInt();
 
         girdiAl.close();
+        
 
         String asal_liste = "2,";
         for (int i = 3; i < n; i++) {
