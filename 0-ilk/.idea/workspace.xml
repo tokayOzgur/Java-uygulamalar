@@ -3,11 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8aedc420-64f1-403c-bcf7-96dc41e2e7e5" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/TernaryIf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/TernaryIf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j0/j0.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j0/j0.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j0/uyg1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j0/uyg1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/j0/uyg2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j0/uyg2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j0/uyg3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j0/uyg3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,9 +97,9 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.uyg2">
+  <component name="RunManager" selected="Application.methods">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.TernaryIf" />
       <module name="0-ilk" />
@@ -120,6 +116,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="j0.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="methods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="j1.methods" />
+      <module name="0-ilk" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="j1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,6 +164,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.methods" />
         <item itemvalue="Application.uyg2" />
         <item itemvalue="Application.uyg1" />
         <item itemvalue="Application.j0" />
@@ -173,6 +183,10 @@
       <workItem from="1644255496775" duration="5339000" />
       <workItem from="1644349201716" duration="3025000" />
       <workItem from="1644355144035" duration="64000" />
+      <workItem from="1644433835056" duration="531000" />
+      <workItem from="1644434401026" duration="797000" />
+      <workItem from="1644435244887" duration="57000" />
+      <workItem from="1644437719120" duration="869000" />
     </task>
     <servers />
   </component>
@@ -194,9 +208,9 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/j0/uyg2.java</url>
-          <line>20</line>
-          <option name="timeStamp" value="1" />
+          <url>file://$PROJECT_DIR$/src/j1/methods.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
