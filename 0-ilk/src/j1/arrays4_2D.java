@@ -16,7 +16,12 @@ public class arrays4_2D {
         // 2x2 boyutlu matris
         int[][] mSayilar2 = { { 1, 2 }, { 3, 4 } };
 
-        ekranaYazdir(mSayilar2);
+        // ekranaYazdir(mSayilar2);
+
+        // ******* 3x3 lük matris ********
+        int mSayilar3[][] = { { 1, 2, 3 }, { 4, 5, 6 }, { 7, 8, 9 } };
+
+        ekranaYazdir(mSayilar3);
     }
 
     public static void ekranaYazdir(int[][] arr) {
