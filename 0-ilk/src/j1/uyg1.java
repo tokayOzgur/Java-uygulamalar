@@ -1,7 +1,7 @@
 package j1;
 
 import java.util.Arrays;
-import java.util.Random;
+
 
 public class uyg1 {
     public static void main(String[] args) {
