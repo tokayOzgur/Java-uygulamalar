@@ -12,6 +12,31 @@ public class arrays5_siralama {
 
         System.out.println("\n\nSelection Sort ile sıralanmış dizi");
         diziYazdir(selectionSort(sayilar));
+
+        System.out.println("\n\nBinary Search ile arama - İndex değeri");
+        System.out.println(binarySearch(sayilar, 83));
+    }
+
+    public static int binarySearch(int[] arr, int arancakVal) {
+        // Adım1 - Dizi elemanları sıralı olmak zorundadır.
+        arr = selectionSort(arr);
+        int minIndex = 0;
+        int maxIndex = arr.length - 1;
+        while (maxIndex >= minIndex) {
+            int midIndex = (minIndex + maxIndex) / 2;
+            // Aranan değer midIndexin solundaysa
+            if (arancakVal < arr[midIndex]) {
+                maxIndex = midIndex - 1;
+            } else if (arancakVal == arr[midIndex]) {
+                return midIndex; // aranan elemanın bulunduğu indexi döndürür
+            }
+            // Aranan değer midIndexin sağındaysa
+            else {
+                minIndex = midIndex + 1;
+            }
+
+        }
+        return minIndex - 1;
     }
 
     // Dizi elemanlarını Sıralama - Selection Sort
@@ -23,7 +48,7 @@ public class arrays5_siralama {
             int minDegerIndex = i; // O anki en küçük elemanın indexi
 
             // elimizde olan elemanı dizinin diğer elemanlarıyla kıyaslama işlemi
-            for (int j = i + 1; j < arr.length ; j++) {
+            for (int j = i + 1; j < arr.length; j++) {
 
                 if (minDeger > arr[j]) {
                     minDeger = arr[j];
