@@ -1,4 +1,4 @@
-package j1;
+package j1Arrays;
 
 public class arrays4_2D {
     public static void main(String[] args) {

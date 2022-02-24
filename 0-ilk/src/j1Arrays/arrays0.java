@@ -1,4 +1,4 @@
-package j1;
+package j1Arrays;
 
 public class arrays0 {
     public static void main(String[] args) {

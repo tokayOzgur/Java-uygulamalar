@@ -1,4 +1,4 @@
-package j1;
+package j1Arrays;
 
 public class uyg2 {
     public static void main(String[] args) {
