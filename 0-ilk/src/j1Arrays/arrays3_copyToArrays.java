@@ -1,7 +1,5 @@
 package j1Arrays;
 
-import java.lang.reflect.Array;
-
 public class arrays3_copyToArrays {
 
     public static void main(String[] args) {

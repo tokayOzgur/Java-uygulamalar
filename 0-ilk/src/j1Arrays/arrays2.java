@@ -12,7 +12,7 @@ public class arrays2 {
         Scanner girdiAl = new Scanner(System.in);
         System.out.print("n: ");
         int n = girdiAl.nextInt(); // değeri değişkende tut
-
+        girdiAl.close();
         int[] dizi = new int[n];
         int toplam = 0;
         for (int i = 0; i < n; i++) {

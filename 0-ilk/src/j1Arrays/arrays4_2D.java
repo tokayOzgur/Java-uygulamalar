@@ -14,7 +14,7 @@ public class arrays4_2D {
 
         // ******* diziye değer ekleme 2 ********
         // 2x2 boyutlu matris
-        int[][] mSayilar2 = { { 1, 2 }, { 3, 4 } };
+        // int[][] mSayilar2 = { { 1, 2 }, { 3, 4 } };
 
         // ekranaYazdir(mSayilar2);
 

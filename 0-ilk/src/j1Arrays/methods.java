@@ -1,6 +1,5 @@
 package j1Arrays;
 
-import java.lang.reflect.Method;
 import java.util.Scanner;
 
 public class methods {
