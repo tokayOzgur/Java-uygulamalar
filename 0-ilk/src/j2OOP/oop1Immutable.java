@@ -5,7 +5,7 @@ public class oop1Immutable {
         // Your code
         String[] firmalaStrings = { "Lenovo", "Inel", "AMD" };
         Bilgisayar b1 = new Bilgisayar(8, 16, firmalaStrings);
-        Bilgisayar b2 = new Bilgisayar(8, 16, new String[] { "Lenovo", "Inel", "AMD" });
+        // Bilgisayar b2 = new Bilgisayar(8, 16, new String[] { "Lenovo", "Inel", "AMD" });
         bilgisayariYazdir(b1);
     }
 
