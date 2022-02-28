@@ -31,7 +31,6 @@ class Kare extends Dikdortgen {
 
         super(en);
         System.out.println("Kare");
-        // TODO Auto-generated constructor stub
     }
 
 }
