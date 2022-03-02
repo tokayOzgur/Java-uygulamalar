@@ -4,7 +4,7 @@ package j2Oop;
  * Polymorphism: üst sınıf değişkeninin alt sınıf nesnelerini referans
  * edebilmesidir
  */
-public class opp5Polymorphism {
+public class oop5Polymorphism {
 
     public static void main(String[] args) {
         Hayvan h1 = new Hayvan();
