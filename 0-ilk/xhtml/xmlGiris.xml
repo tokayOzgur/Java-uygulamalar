@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- XML -  Genişletilebilir İşaret Dili -->
+<personals>
+    <personal>
+        <name>Özgür</name>
+        <surname>Tokay</surname>
+        <age>24</age>
+        <body>Software Engineer</body>
+        <date>2022-03-01</date>
+        <hour>23:23</hour>
+    </personal>
+
+    <personal>
+        <name>İbrahim</name>
+        <surname>Abak</surname>
+        <age>22</age>
+        <body>Software Engineer</body>
+        <date>2022-03-01</date>
+        <hour>23:23</hour>
+    </personal>
+
+    <personal>
+        <name>Özgür</name>
+        <surname>Tokay</surname>
+        <age>24</age>
+        <body>Software Engineer</body>
+        <date>2022-03-01</date>
+        <hour>23:23</hour>
+    </personal>
+
+    <personal>
+        <name>İbrahim</name>
+        <surname>Abak</surname>
+        <age>22</age>
+        <body>Software Engineer</body>
+        <date>2022-03-01</date>
+        <hour>23:23</hour>
+    </personal>
+
+    <personal>
+        <name>Özgür</name>
+        <surname>Tokay</surname>
+        <age>24</age>
+        <body>Software Engineer</body>
+        <date>2022-03-01</date>
+        <hour>23:23</hour>
+    </personal>
+
+    <personal>
+        <name>İbrahim</name>
+        <surname>Abak</surname>
+        <age>22</age>
+        <body>Software Engineer</body>
+        <date>2022-03-01</date>
+        <hour>23:23</hour>
+    </personal>
+
+    <personal>
+        <name>Özgür</name>
+        <surname>Tokay</surname>
+        <age>24</age>
+        <body>Software Engineer</body>
+        <date>2022-03-01</date>
+        <hour>23:23</hour>
+    </personal>
+
+    <personal>
+        <name>İbrahim</name>
+        <surname>Abak</surname>
+        <age>22</age>
+        <body>Software Engineer</body>
+        <date>2022-03-01</date>
+        <hour>23:23</hour>
+    </personal>
+</personals>
