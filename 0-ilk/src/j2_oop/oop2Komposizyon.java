@@ -1,4 +1,4 @@
-package j2Oop;
+package j2_oop;
 
 /* Burada kalıtım olmadan Sınıf oluştururken başka bir sınıftan yararlanıldı. 
 Böylelikle gereksiz koddan kaçınıldı. 

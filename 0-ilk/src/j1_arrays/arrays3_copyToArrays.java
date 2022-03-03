@@ -1,4 +1,4 @@
-package j1Arrays;
+package j1_arrays;
 
 public class arrays3_copyToArrays {
 

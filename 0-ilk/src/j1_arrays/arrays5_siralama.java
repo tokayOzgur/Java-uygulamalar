@@ -1,4 +1,4 @@
-package j1Arrays;
+package j1_arrays;
 
 public class arrays5_siralama {
     public static void main(String[] args) {

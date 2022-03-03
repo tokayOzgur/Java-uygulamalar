@@ -1,4 +1,4 @@
-package j2Oop;
+package j2_oop;
 
 /**
  * Polymorphism: üst sınıf değişkeninin alt sınıf nesnelerini referans

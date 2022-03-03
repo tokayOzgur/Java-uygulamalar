@@ -1,4 +1,4 @@
-package j2Oop;
+package j2_oop;
 
 public class oop0_giris {
 

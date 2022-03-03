@@ -1,4 +1,4 @@
-package j1Arrays;
+package j1_arrays;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package j2Oop;
+package j2_oop;
 
 public class oop7_string {
     public static void main(String[] args) {
