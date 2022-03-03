@@ -60,5 +60,4 @@ class Ogrenci implements Comparable<Ogrenci> {
             return 0;
         }
     }
-
 }
