@@ -3,6 +3,7 @@ package j3_abstract_interface;
 /* 
  * **** Abstract vs Interface ********
  * interface de değişkenler public.static veya final olmak zorundadır
+ * 
 */
 public class j2_coklu_kalitim {
     public static void main(String[] args) {
