@@ -3,7 +3,7 @@ package j2_oop;
 /* Burada kalıtım olmadan Sınıf oluştururken başka bir sınıftan yararlanıldı. 
 Böylelikle gereksiz koddan kaçınıldı. 
 Bu duruma KOMPOZİSYON denilir. */
-public class oop2Komposizyon {
+public class oop2_komposizyon {
     public static void main(String[] args) {
         Araba myAraba = new Araba();
         myAraba.hareketeGec();

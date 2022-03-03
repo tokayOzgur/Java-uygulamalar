@@ -1,6 +1,6 @@
 package j2_oop;
 
-public class oop1Immutable {
+public class oop1_immutable {
     public static void main(String[] args) {
         // Your code
         String[] firmalaStrings = { "Lenovo", "Inel", "AMD" };

@@ -1,6 +1,6 @@
 package j2_oop;
 
-public class oop3Inheritance {
+public class oop3_inheritance {
     /*
      * Türetme işlemi 'extends' anahtar kelimesi ile yapılır.
      * Private olmayan değişken ve metotlara erişim sağlanmış oluyor.

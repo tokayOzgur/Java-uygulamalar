@@ -1,6 +1,6 @@
 package j1_arrays;
 
-public class arrays3_copyToArrays {
+public class arrays3_copy_to_arrays {
 
     public static void main(String[] args) {
         int[] anaDizi = { 1, 2, 3, 4 };

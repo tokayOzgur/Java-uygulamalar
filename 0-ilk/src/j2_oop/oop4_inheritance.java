@@ -1,6 +1,6 @@
 package j2_oop;
 
-public class oop4Inheritance {
+public class oop4_inheritance {
     public static void main(String[] args) {
 
         Personel mudur = new Personel("ahmet", 1234567890, 1);

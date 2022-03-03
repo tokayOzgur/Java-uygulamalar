@@ -1,6 +1,6 @@
 package j2_oop;
 
-public class oop0Ogrenci {
+public class oop0_ogrenci {
 
     private int ogrId;
     private String ogrIsim;
@@ -9,11 +9,11 @@ public class oop0Ogrenci {
 
     
 
-    public oop0Ogrenci() {
+    public oop0_ogrenci() {
         super();
     }
 
-    public oop0Ogrenci(int ogrId, String ogrIsim, byte sinif, boolean aktifMi) {
+    public oop0_ogrenci(int ogrId, String ogrIsim, byte sinif, boolean aktifMi) {
         this.ogrId = ogrId;
         this.ogrIsim = ogrIsim;
         this.sinif = sinif;
