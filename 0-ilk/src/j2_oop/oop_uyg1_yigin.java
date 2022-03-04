@@ -6,7 +6,7 @@ import java.util.ArrayList;
  * oop_uyg1_yıgın
  * Kendi yığın yapımızı oluşturalım
  */
-public class oop_uyg1_yıgın {
+public class oop_uyg1_yigin {
 
     public static void main(String[] args) {
         myStack stack = new myStack();

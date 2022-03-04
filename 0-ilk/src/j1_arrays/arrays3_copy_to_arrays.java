@@ -24,14 +24,14 @@ public class arrays3_copy_to_arrays {
 
         // ---------------------------------------------------------------
         anaDizi[0] = 100; // 0.indexi 100 yaptık
-        diziYazdır(kopyaDizi3); // burada anaDizinin ramdeki referans değerini kopyaDizi3'e verdiğimizden dolayı
+        diziYazdir(kopyaDizi3); // burada anaDizinin ramdeki referans değerini kopyaDizi3'e verdiğimizden dolayı
                                 // bir değişiklik ikisinde de geçerli oluyor
         // tersten yazdırma
         TerstenYazdir(anaDizi);
     }
 
     // Ekrana yazdırma metodu
-    public static void diziYazdır(int[] arr) {
+    public static void diziYazdir(int[] arr) {
         System.out.println("\n\nDizi ekrana yazdırılıyor");
         // Ekrana yazdırma0
         for (int sayi : arr) {
@@ -45,6 +45,6 @@ public class arrays3_copy_to_arrays {
         for (int i = 0; i < arr.length; i++) {
             tersArr[i] = arr[arr.length - 1 - i];
         }
-        diziYazdır(tersArr);
+        diziYazdir(tersArr);
     }
 }
