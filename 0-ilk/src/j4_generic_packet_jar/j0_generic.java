@@ -2,7 +2,7 @@ package j4_generic_packet_jar;
 
 import java.util.Iterator;
 
-public class j4_generic {
+public class j0_generic {
 	public static void main(String[] args) {
 		String isimler[] = { "ali", "ayşe", "ismail", "ömer" };
 		Integer[] sayilar = { 1, 2, 3, 4, 5 };
