@@ -3,7 +3,7 @@ package j5_collection;
 import java.util.HashMap;
 import java.util.Map;
 
-public class j2_map_hashmap {
+public class j2_hashmap {
 	public static void main(String[] args) {
 		HashMap<Integer, String> plakalar = new HashMap<Integer, String>();
 		plakalar.put(01, "Adana");
