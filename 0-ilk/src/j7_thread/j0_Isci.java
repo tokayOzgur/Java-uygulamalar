@@ -1,6 +1,6 @@
 package j7_thread;
 
-public class Isci extends Thread {
+public class j0_Isci extends Thread {
 	@Override
 	public void run() {
 		// TODO Auto-generated method stub
