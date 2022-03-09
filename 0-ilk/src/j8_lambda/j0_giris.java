@@ -1,6 +1,7 @@
 package j8_lambda;
 
 import java.util.ArrayList;
+import java.util.Collection;
 
 public class j0_giris {
 	public static void main(String[] args) {
@@ -29,6 +30,8 @@ public class j0_giris {
 //		for (Calisan calisan : calisanlar) {
 //			bilgileriYazdir(() -> System.out.println(calisan.getIsim() + " " + calisan.getYas()));
 //		}
+
+//		Collection.sort(calisanlar, (Calisan cal1, Calisan cal2) -> cal1.getIsim().compareTo(cal2.getIsim()));
 
 	}
 
